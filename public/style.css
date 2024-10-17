@@ -1,0 +1,15 @@
+.tittle {
+  background-color: black;
+  padding: 10px;
+  color: white;
+}
+
+.subtitle {
+  background-color: orange;
+  padding: 5;
+  color: white;
+}
+
+.bt-message {
+  margin-bottom: 10px;
+}
